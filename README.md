@@ -1,1 +1,79 @@
-# intro-to-python
+# An Introduction to Python and Programming
+
+The **purpose** of this course is to provide **freely** a thorough introductory course on programming in the **[Python <img height="12" style="display: inline-block" src="static/link_to_py.png">](https://www.python.org/)** language to anyone interested. The course is for **non-profit purposes**.
+All material are collected from online resources and customized to a free online Python course.
+
+The course's **next goal** is to **prepare** the student for **further
+studies** in the "field" of **data science**.
+
+## Content (Keep updating)
+
+The chapters are laid out in [Jupyter notebooks <img height="12" style="display: inline-block" src="static/link_to_jp.png">](https://jupyter-notebook.readthedocs.io/en/stable/)
+which are a de-facto standard for exchanging code and analyses among data science professionals and researchers.
+
+### Month 1:
+- *Chapter 0*: Introduction
+- **Part A: Expressing Logic**
+  - *Chapter 1*: Elements of a Program
+  - *Chapter 2*: Functions & Modularization
+  - *Chapter 3*: Conditionals & Exceptions
+  - *Chapter 4*: Recursion & Looping
+
+## Prerequisites
+
+This course is suitable for *total beginners*, and there are *no* formal prerequisites. The student only needs to have:
+
+- a *solid* understanding of the **English language**,
+- knowledge of **basic mathematics** from high school,
+- the ability to **think conceptually** and **reason logically**, and
+- the willingness to **invest time and effort on this course**.
+
+## Why Python?
+Python is a **general-purpose** programming **language** that allows for *fast development*, is *easy to read*, **open-source**, long-established, unifies the knowledge of *hundreds of thousands of experts* around the world, runs on basically every machine, and can handle the complexities of applications involving **big data**.
+
+<img src="static/growth_major_languages.png" width="80%">
+
+#### Who use Python?
+<img src="static/logos.png" width="80%">
+
+- **[Massachusetts Institute of Technology](https://www.mit.edu/)**
+  - teaches Python in its [introductory course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) to computer science independent of the student's major
+  - replaced the infamous course on the [Scheme](https://groups.csail.mit.edu/mac/projects/scheme/) language (cf., [source <img height="12" style="display: inline-block" src="static/link_to_hn.png">](https://news.ycombinator.com/item?id=602307))
+- **[Google](https://www.google.com/)**
+  - used the strategy "Python where we can, C++ where we must" from its early days on to stay flexible in a rapidly changing environment (cf., [source <img height="12" style="display: inline-block" src="static/link_to_so.png">](https://stackoverflow.com/questions/2560310/heavy-usage-of-python-at-google))
+  - the very first web-crawler was written in Java and so difficult to maintain that it was rewritten in Python right away (cf., [source](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585/ref=sr_1_1?ie=UTF8&qid=1539101827&sr=8-1&keywords=in+the+plex))
+  - Guido van Rossom was hired by Google from 2005 to 2012 to advance the language there
+- **[NASA](https://www.nasa.gov/)** open-sources many of its projects, often written in Python and regarding analyses with big data (cf., [source](https://code.nasa.gov/language/python/))
+- **[Facebook](https://facebook.com/)** uses Python besides C++ and its legacy PHP (a language for building websites; the "cool kid" from the early 2000s)
+- **[Instagram](https://instagram.com/)** operates the largest installation of the popular **web framework  [Django](https://www.djangoproject.com/)** (cf., [source](https://instagram-engineering.com/web-service-efficiency-at-instagram-with-python-4976d078e366))
+- **[Spotify](https://spotify.com/)** bases its data science on Python (cf., [source](https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/))
+- **[Netflix](https://netflix.com/)** also runs its predictive models on Python (cf., [source](https://medium.com/netflix-techblog/python-at-netflix-86b6028b3b3e))
+- **[Dropbox](https://dropbox.com/)** "stole" Guido van Rossom from Google to help scale the platform (cf., [source](https://medium.com/dropbox-makers/guido-van-rossum-on-finding-his-way-e018e8b5f6b1))
+- **[JPMorgan Chase](https://www.jpmorganchase.com/)** requires new employees to learn Python as part of the onboarding process starting with the 2018 intake (cf., [source](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9?segmentId=a7371401-027d-d8bf-8a7f-2a746e767d56))
+
+## Installation
+
+To follow this course, a working installation of **Python 3.7** or higher is expected.
+
+A popular and beginner friendly way is to install the [Anaconda Distribution](
+https://www.anaconda.com/distribution/) that not only ships Python but comes pre-packaged with a lot of third-party libraries from the so-called "scientific stack".
+Just go to the [download](https://www.anaconda.com/distribution/#download-section) section and install the latest version (i.e., *2019-10* with Python 3.7 at the time of this writing) for your operating system.
+
+Then, among others, you will find an entry "[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)" in your start menu like below.
+Click on it.
+
+<img src="static/anaconda_start_menu.png" width="30%">
+
+A window opens showing you several applications that come with the Anaconda Distribution. Now, click on "JupyterLab."
+
+<img src="static/anaconda_navigator.png" width="50%">
+
+A new tab in your web browser opens with the website being "localhost" and some number (e.g., 8888). This is the [JupyterLab <img height="12" style="display: inline-block" src="static/link_to_jp.png">](https://jupyterlab.readthedocs.io/en/stable/)
+application that is used to display and run the notebooks mentioned above.
+
+On the left, you see the files and folders in your local user folder. This file browser works like any other. In the center, you have several options to launch (i.e., "create") new files.
+
+<img src="static/jupyter_lab.png" width="50%">
+
+Next, to download the course's materials as a ZIP file, click on the green "Clone or download" button on the top right on this website.
+Then, unpack the ZIP file into a folder of your choosing, ideally somewhere within your personal user folder so that the files show up right away in JupyterLab.
