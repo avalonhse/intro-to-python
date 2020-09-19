@@ -6,7 +6,7 @@ All material are collected from online resources and customized to a free online
 The course's **next goal** is to **prepare** the student for **further
 studies** in the "field" of **data science**.
 
-## Content (Keep updating)
+## Class Agenda (Keep updating)
 
 The chapters are laid out in [Jupyter notebooks <img height="12" style="display: inline-block" src="static/link_to_jp.png">](https://jupyter-notebook.readthedocs.io/en/stable/)
 which are a de-facto standard for exchanging code and analyses among data science professionals and researchers.
@@ -51,11 +51,17 @@ Python is a **general-purpose** programming **language** that allows for *fast d
 - **[Dropbox](https://dropbox.com/)** "stole" Guido van Rossom from Google to help scale the platform (cf., [source](https://medium.com/dropbox-makers/guido-van-rossum-on-finding-his-way-e018e8b5f6b1))
 - **[JPMorgan Chase](https://www.jpmorganchase.com/)** requires new employees to learn Python as part of the onboarding process starting with the 2018 intake (cf., [source](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9?segmentId=a7371401-027d-d8bf-8a7f-2a746e767d56))
 
+## Course Materials
+All the course material will be put into the subfolder "Class_Contents". In the "Class_Contents", there are 3 sub-subfolders:
+- **Classes** : content teaching on class 
+- **ReviewLession** : questions to review previous class
+- **Exercises** : homework submitted to tutors
+
 ## Software installation for the course
 
 #### 1. GitKraken
 
-The course materials will continually updated weekly on this Github folder "Sessions". [GitKraken](https://www.gitkraken.com/) is a free powerful graphical interface for Git which can be used to update the course materials. Just go to the [download](https://www.gitkraken.com/download) section and install the latest version for your operating system.
+The course materials will continually weekly updated on this Github folder "Class_Contents". [GitKraken](https://www.gitkraken.com/) is a free powerful graphical interface for Git which can be used to update the course materials. Just go to the [download](https://www.gitkraken.com/download) section and install the latest version for your operating system.
 
 - **Download the course material** 
 To download the course material the first time, open GitKraken and choose "Clone the repo". 
@@ -67,7 +73,7 @@ Then in the Tab "Clone with URL" choose the local folder where you want to keep 
 <img src="static/GitKrakenClone.png" width="80%">
 
 - **Update the course material** 
-The course material will be updated before the class starts. To update the material. Open GitKraken, choose the folder intro-to-python, and click on the Pull command.
+The course material will be updated before the class starts. To update the material, open GitKraken, choose the folder intro-to-python, and click on the Pull command.
 
 <img src="static/GitKrakenUpdate.png" width="80%">
 
