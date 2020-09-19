@@ -51,29 +51,49 @@ Python is a **general-purpose** programming **language** that allows for *fast d
 - **[Dropbox](https://dropbox.com/)** "stole" Guido van Rossom from Google to help scale the platform (cf., [source](https://medium.com/dropbox-makers/guido-van-rossum-on-finding-his-way-e018e8b5f6b1))
 - **[JPMorgan Chase](https://www.jpmorganchase.com/)** requires new employees to learn Python as part of the onboarding process starting with the 2018 intake (cf., [source](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9?segmentId=a7371401-027d-d8bf-8a7f-2a746e767d56))
 
-## Installation
+## Software installation for the course
+
+#### 1. GitKraken
+
+The course materials will continually updated weekly on this Github folder "Sessions". [GitKraken](https://www.gitkraken.com/) is a free powerful graphical interface for Git which can be used to update the course materials. Just go to the [download](https://www.gitkraken.com/download) section and install the latest version for your operating system.
+
+- **Download the course material** 
+To download the course material the first time, open GitKraken and choose "Clone the repo". 
+
+<img src="static/GitKrakenOpen.png" width="60%">
+
+Then in the Tab "Clone with URL" choose the local folder where you want to keep all course materials. In the next form "URL", paste "https://github.com/avalonhse/intro-to-python" and click "Clone the repo". The GitKraken will create a new folder with all materials downloaded in your chosen location.
+
+<img src="static/GitKrakenClone.png" width="80%">
+
+- **Update the course material** 
+The course material will be updated before the class starts. To update the material. Open GitKraken, choose the folder intro-to-python, and click on the Pull command.
+
+<img src="static/GitKrakenUpdate.png" width="80%">
+
+Then GitKraken will update the new material for you in the intro-to-python folder.
+
+#### 2. Anaconda
+
+Anaconda is a free and open-source distribution of the Python aims to simplify installations of Python tools and libraries. 
 
 To follow this course, a working installation of **Python 3.7** or higher is expected.
 
 A popular and beginner friendly way is to install the [Anaconda Distribution](
-https://www.anaconda.com/distribution/) that not only ships Python but comes pre-packaged with a lot of third-party libraries from the so-called "scientific stack".
-Just go to the [download](https://www.anaconda.com/distribution/#download-section) section and install the latest version (i.e., *2019-10* with Python 3.7 at the time of this writing) for your operating system.
+https://www.anaconda.com/distribution/) that not only ships Python but comes pre-packaged with a lot of third-party libraries from the so-called "scientific stack". Just go to the [download](https://www.anaconda.com/distribution/#download-section) section and install the latest version for your operating system.
 
 Then, among others, you will find an entry "[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)" in your start menu like below.
 Click on it.
 
-<img src="static/anaconda_start_menu.png" width="30%">
+<img src="static/anaconda_start_menu.png" width="60%">
 
 A window opens showing you several applications that come with the Anaconda Distribution. Now, click on "JupyterLab."
 
-<img src="static/anaconda_navigator.png" width="50%">
+<img src="static/anaconda_navigator.png" width="80%">
 
 A new tab in your web browser opens with the website being "localhost" and some number (e.g., 8888). This is the [JupyterLab <img height="12" style="display: inline-block" src="static/link_to_jp.png">](https://jupyterlab.readthedocs.io/en/stable/)
 application that is used to display and run the notebooks mentioned above.
 
 On the left, you see the files and folders in your local user folder. This file browser works like any other. In the center, you have several options to launch (i.e., "create") new files.
 
-<img src="static/jupyter_lab.png" width="50%">
-
-Next, to download the course's materials as a ZIP file, click on the green "Clone or download" button on the top right on this website.
-Then, unpack the ZIP file into a folder of your choosing, ideally somewhere within your personal user folder so that the files show up right away in JupyterLab.
+<img src="static/jupyter_lab.png" width="80%">
