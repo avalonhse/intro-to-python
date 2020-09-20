@@ -57,7 +57,7 @@ All the course material will be put into the subfolder "Class_Contents". In the 
 - **ReviewLession** : questions to review previous class
 - **Exercises** : homework submitted to tutors
 
-## Software installation for the course
+## Software and tools installation for the course
 
 #### 1. GitKraken
 
@@ -103,3 +103,20 @@ application that is used to display and run the notebooks mentioned above.
 On the left, you see the files and folders in your local user folder. This file browser works like any other. In the center, you have several options to launch (i.e., "create") new files.
 
 <img src="static/jupyter_lab.png" width="80%">
+
+#### 3. HackerRank
+
+HackerRank is a wonderful online platform which contains numerous online coding tests for student to practice their coding skills. Software companies also use HackerRank technical assessment and remote interview solution for hiring developers. Student will see a coding prolem in HackerRank in a form of problem description, sample input and expected output. 
+
+<img src="static/HackerRankProblem.png" width="80%">
+
+The task is writing the code according to problem description so that the code will take the sample input and print out the expected output. 
+
+<img src="static/HackerRank_submit.png" width="80%">
+
+Our course target is completing some (may not all) [HackerRank Python problems](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction). In order to do that, please register your account in HackerRank in the link below:
+[HackerRank SignUp](
+https://www.hackerrank.com/auth/signup?h_l=body_middle_left_button&h_r=sign_up)
+
+## Last words
+The purpose of this course is non-profit and by no means commercial. It is conducted as an effort of motivating anyone to learn Python for their careers.
