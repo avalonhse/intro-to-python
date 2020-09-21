@@ -66,7 +66,7 @@ The course materials will continually weekly updated on this Github folder "Clas
 - **Download the course material** 
 To download the course material the first time, open GitKraken and choose "Clone the repo". 
 
-<img src="static/GitKrakenOpen.png" width="60%">
+<img src="static/GitKrakenOpen.png" width="50%">
 
 Then in the Tab "Clone with URL" choose the local folder where you want to keep all course materials. In the next form "URL", paste "https://github.com/avalonhse/intro-to-python" and click "Clone the repo". The GitKraken will create a new folder with all materials downloaded in your chosen location.
 
@@ -75,7 +75,7 @@ Then in the Tab "Clone with URL" choose the local folder where you want to keep 
 - **Update the course material** 
 The course material will be updated before the class starts. To update the material, open GitKraken, choose the folder intro-to-python, and click on the Pull command.
 
-<img src="static/GitKrakenUpdate.png" width="80%">
+<img src="static/GitKrakenUpdate.png" width="90%">
 
 Then GitKraken will update the new material for you in the intro-to-python folder.
 
@@ -108,11 +108,11 @@ On the left, you see the files and folders in your local user folder. This file 
 
 HackerRank is a wonderful online platform which contains numerous online coding tests for student to practice their coding skills. Software companies also use HackerRank technical assessment and remote interview solution for hiring developers. Student will see a coding prolem in HackerRank in a form of problem description, sample input and expected output. 
 
-<img src="static/HackerRankProblem.png" width="80%">
+<img src="static/HackerRankProblem.png" width="60%">
 
 The task is writing the code according to problem description so that the code will take the sample input and print out the expected output. 
 
-<img src="static/HackerRank_submit.png" width="80%">
+<img src="static/HackerRank_submit.png" width="60%">
 
 Our course target is completing some (may not all) [HackerRank Python problems](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction). In order to do that, please register your account in HackerRank in the link below:
 [HackerRank SignUp](
@@ -120,3 +120,11 @@ https://www.hackerrank.com/auth/signup?h_l=body_middle_left_button&h_r=sign_up)
 
 ## Last words
 The purpose of this course is non-profit and by no means commercial. It is conducted as an effort of motivating anyone to learn Python for their careers.
+
+## Credits
+This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+Project: An Introduction to Python and Programming https://github.com/webartifex/intro-to-python
+Copyright (c) 2019 Alexander Hess [alexander@webartifex.biz]. All right reserved.
+License (MIT) https://github.com/webartifex/intro-to-python/blob/master/LICENSE
+
