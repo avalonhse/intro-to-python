@@ -122,9 +122,11 @@ https://www.hackerrank.com/auth/signup?h_l=body_middle_left_button&h_r=sign_up)
 The purpose of this course is non-profit and by no means commercial. It is conducted as an effort of motivating anyone to learn Python for their careers.
 
 ## Credits
-This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these authors:
 
-Project: An Introduction to Python and Programming https://github.com/webartifex/intro-to-python
+1. Project: An Introduction to Python and Programming https://github.com/webartifex/intro-to-python
 Copyright (c) 2019 Alexander Hess [alexander@webartifex.biz]. All right reserved.
 License (MIT) https://github.com/webartifex/intro-to-python/blob/master/LICENSE
 
+References: 
+1. Miller, Brad, and David Ranum. "Problem solving with algorithms and data structures." (2013).
