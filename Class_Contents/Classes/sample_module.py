@@ -40,7 +40,7 @@ def average(numbers, *, scalar=1):
     return _scaled_average(_round_all(numbers), scalar)
 
 
-def average_evens(numbers, *, scalar=1):
+def average_evens(numbers, *, scalar=1): # docstrings
     """Calculate the average of all even numbers in a list.
     Args:
         numbers (list of int's/float's): numbers to be averaged;
